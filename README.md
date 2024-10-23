@@ -1,7 +1,7 @@
 # Quang_T4C3
 # Giới thiệu về bản thân
 
-Xin chào! Mình là **Khiêm**, hiện đang là sinh viên năm 3 chuyên ngành Công nghệ Thông tin tại Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT). Mình đam mê phát triển phần mềm, đặc biệt là các ứng dụng di động với SwiftUI.
+Xin chào! Mình là **Quang**, hiện đang là sinh viên năm 3 chuyên ngành Công nghệ Thông tin tại Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT). Mình đam mê phát triển phần mềm, đặc biệt là các ứng dụng game.
 
 ## Kỹ năng cá nhân
 - **Ngôn ngữ lập trình**:  Java, C#, JavaScript, C++
@@ -24,7 +24,7 @@ Hiện tại, mình đang tham gia một nhóm phát triển phần mềm gồm 
   - Đặt vé và thanh toán trực tuyến.
   - Quản lý thông tin vé và hành khách.
 
-### 3. **Hệ thống quản lý sinh viên**
+### 2. **Hệ thống quản lý sinh viên**
 - **Mô tả**: Hệ thống giúp quản lý thông tin sinh viên, điểm số và các hoạt động học tập tại trường.
 - **Kỹ thuật**: Java, MySQL
 - **Tính năng**:
