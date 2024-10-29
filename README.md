@@ -2,7 +2,7 @@
 
 ## 👋 Giới thiệu về bản thân
 
-Xin chào! Mình là **Anh Quang** - sinh viên năm ba chuyên ngành Công nghệ Thông tin tại Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT). Với niềm đam mê mãnh liệt với game, mình luôn khao khát phát triển một tựa game hấp dẫn mà người chơi không thể rời mắt.
+Xin chào! Mình là **Anh Quang** - sinh viên năm ba chuyên ngành Công nghệ Thông tin tại Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT). Với niềm đam mê mãnh liệt với game, mình luôn muốn tạo 1 tựa game cực kì cuốn mà người chơi không thể chán được.
 
 ---
 
